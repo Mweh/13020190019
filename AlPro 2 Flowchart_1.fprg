@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ACER"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-03-07 03:49:52 PM"/>
+        <attribute name="created" value="QUNFUjtMQVBUT1AtNUxVUUs2Njg7MjAyMC0wMy0wNzswMToyMzo0MSBQTTsyNTk1"/>
+        <attribute name="edited" value="QUNFUjtMQVBUT1AtNUxVUUs2Njg7MjAyMC0wMy0wNzswMzo0OTo1MiBQTTs3OzI3MjE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="i, n, m, jumlah" type="Integer" array="False" size=""/>
+            <assign variable="jumlah" expression="0"/>
+            <output expression="&quot;Jumlah Bilangan = &quot;" newline="False"/>
+            <input variable="n"/>
+            <declare name="nilai" type="Integer" array="True" size="n"/>
+            <output expression="&quot;masukkan batasan&quot;" newline="True"/>
+            <input variable="m"/>
+            <for variable="i" start="0" end="m" direction="inc" step="1">
+                <input variable="nilai[i]"/>
+            </for>
+            <for variable="i" start="0" end="m" direction="inc" step="1">
+                <output expression="nilai[i]" newline="True"/>
+            </for>
+            <for variable="i" start="0" end="m" direction="inc" step="1">
+                <assign variable="jumlah" expression="jumlah + nilai[i]"/>
+            </for>
+            <output expression="&quot;Hasil Penjumlahan : &quot;" newline="False"/>
+            <output expression="jumlah" newline="True"/>
+        </body>
+    </function>
+    <function name="sum" type="Integer" variable="">
+        <parameters/>
+        <body>
+            <declare name="jumlah, i" type="Integer" array="False" size=""/>
+            <assign variable="jumlah" expression="0"/>
+            <assign variable="jumlah" expression="jumlah+nilai[i]"/>
+        </body>
+    </function>
+</flowgorithm>
