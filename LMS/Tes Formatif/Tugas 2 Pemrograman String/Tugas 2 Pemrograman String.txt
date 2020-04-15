@@ -1,0 +1,14 @@
+Tugas 2 Pemrograman String
+
+
+1.Buatlah program untuk mencari panjang string tapi tidak memakai fungsi strlen()
+
+2. Buatlah program untuk membalik string tapi tidak memakai fungsi strrev()
+
+3. Buatlah program untuk mengenkripsi sebuah pesan yaitu dengan mengganti masing-masing karakter dengan karakter lain
+
+4. Buatlah program untuk mengonversi bilangan desimal ke bilangan biner
+
+5. Buatlah program untuk mengubah huruf besar dan kecil tanpa menggunakan strlwr(), strupr(), toupper() dan tolower()
+
+6. Buatlah program untuk mengecek sebuah kata yang termasuk palindrom. Palindrom adalah kata yang sama jika dibaca dari kiri maupun kanan. Contoh kata palindrom adalah : malam, katak,aba.

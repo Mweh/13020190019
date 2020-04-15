@@ -1,0 +1,9 @@
+Tugas 3 Pointer dan Array
+
+
+1. Buat program sederhana yang memiliki prosedur/fungsi tukar nilai bilangan integer menggunakan pointer dan outputnya serta berikan penjelasan program
+
+2. Buatlah suatu program untuk menjumlahkan bilangan bulat yang dimasukkan melalui keyboard, batas awal (i) bertipe integer, batas akhir(n) bertipe integer dan jumlah (sum) bertipe integer untuk menyimpan total bilangan bulat menggunakan pointer (berikan penjelasan program)
+
+3. Buat program untuk menyusun nomor dus air 2,4,6,…18 menggunakan pointer secara otomatis menyimpan nomor (tanpa masukan keyboard) ke dalam kontainer yang memuat ukuran 3 x 3, setiap dus akan diberi nomor sebanyak jumlah dus sesuai ukuran kontainer (berikan penjelasan program)
+

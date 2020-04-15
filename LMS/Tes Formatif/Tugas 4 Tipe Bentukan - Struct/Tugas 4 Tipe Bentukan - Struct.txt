@@ -1,0 +1,16 @@
+Tugas 4 Struct
+
+
+1. Uraikan secara singkat definisi dan tujuan dari struct
+
+2. Buatlah program sederhana yang berisi deklarasi bertipe struct
+
+3. Buatlah program sederhana yang berisi variabel bertipe struct
+
+4. Buatlah program sederhana yang berisi pengaksesan anggota (variabel) struct
+
+5. Buatlah program sederhana yang berisi deklarasi tipe struct di dalam struct
+
+6. Buatlah program sederhana yang berisi akses anggota (variable) struct di dalam struct
+
+7. Buatlah program sederhana yang berisi penugasan struct

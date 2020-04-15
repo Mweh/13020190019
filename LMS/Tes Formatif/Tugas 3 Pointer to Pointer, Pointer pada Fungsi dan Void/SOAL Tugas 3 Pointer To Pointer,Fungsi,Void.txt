@@ -1,0 +1,10 @@
+Tugas 3 Pointer To Pointer,Fungsi,Void
+
+
+1. Buat program sederhana yang menggunakan variabel pointer to pointer dan berilah penjelasan
+
+2. Bagaimana cara mengakses pointer? tunjukkan dengan program sederhana!
+
+3. Tuliskan program dan output program pointer ke fungsi dan berilah penjelasan
+
+4. Tuliskan program dan outputnya dari program yang menggunakan pointer dengan tipedata void serta beri penjelasan

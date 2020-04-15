@@ -1,0 +1,22 @@
+Soal Tugas 3 Pengenalan Pointer
+
+
+1. Tulis contoh program penggunaan operator pointer dereference (&)
+
+2. Apa yang dimaksud dengan NULL POINTERS?
+
+3. Apa yang dimaksud dengan Dangling Pointers?
+
+4. Tulis contoh program penggunaan pointer reference (*)
+
+5. Tulis output dan jelaskan dengan singkat hasil keluaran program #include int main() { int a=10; float *p; p = &a; return 0; }
+
+6. Sebutkan macam-macam Operator Pointer
+
+7. Uraikan secara singkat konsep utama Pointer ?
+
+8. Uraikan secara singkat keterkaitan antara pointer dan alamat memori
+
+9. Uraikan secara singkat penerapan Pointer
+
+10. Apa yang dimaksud dengan Pointer
