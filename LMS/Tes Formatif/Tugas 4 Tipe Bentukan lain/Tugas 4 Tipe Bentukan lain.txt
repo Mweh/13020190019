@@ -1,0 +1,26 @@
+Tugas 4 Tipe Bentukan lain
+
+
+1.Tulis bentuk umum dari struct to pointer
+
+2.Buat program sederhana yang mengandung struct to pointer(program upload dalam github)
+
+3.Jelaskan dua metode melewati struktur dan fungsi
+
+4.Buat program sederhana yang menunjukkan passing by value pada struktur sebagai argumen dari fungsi
+
+5.Buat program sederhana yang menunjukkan passing by reference pada struktur sebagai argumen dari fungsi
+
+6.Buat Program yang mengandung array dari struct
+
+7.Apa itu union dalam pemrograman c++
+
+8.Buat program sederhana yang menggunakan union dalam pemrograman c++
+
+9.Apa itu enum dalam pemrograman c++
+
+10.Apa itu typedef dalam pemrograman c++
+
+11.Buat program sederhana yang menggunakan typedef dalam pemrograman c++
+
+12.Buat program sederhana yang menggunakan enum dan bit-field dalam pemrograman c++
