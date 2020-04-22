@@ -1,0 +1,163 @@
+Tugas 5 Pemrosesan File part 2
+
+Soal:
+
+1. Jelaskan jenis operasi file dan berikan contohnya masing-masing
+
+2. Buat Program sederhana untuk merekam atau menulis data sembarang dengan nama file "datatugas5.txt"
+
+3. Buat Program sederhana untuk membaca isi data dari file "datatugas5.txt"
+
+4. Buatlah program sederhana untuk menulis/merekam data anda yang terdiri dari stambuk, nama anda dan kelas. Data tsb disimpan dengan nama file mhsFile dan nama file data “datamhs.txt”.
+
+5. Buat program sederhana untuk menulis/merekam data mahasiswa yang terdiri dari stambuk, nama mahasiswa, kelas dan ipk. Data tersebut disimpan dengan nama file objek datamhs dan nama file data “datamhs.txt”.
+
+
+
+
+Jawab:
+
+1. 
+
+ios::in		Untuk mendefinisikan pembukaan file sebagai sebuah operasi pembacaan (input)
+ios::out	Untuk mendefinisikan pembukaan file sebagai sebuah operasi penulisan (output)
+ios::binary	membuka file dalam mode binari
+ios::ate	Membuka sebuah file dan memindahkan kendali input dan output pada akhir dari file, jika tidak maka kendali akan berada pada awal file.
+ios::app	Mode penambahan, setiap penambahan tulisan akan ditambahkan pada akhir file.
+ios::trunc	Jika file sudah ada, maka akan digantikan sepenuhnya sebelum proses membuka file.
+
+
+Contoh:
+
+secara simple:
+
+ofstream fileku;
+fileku.open("filenya.txt ", ios::out | ios::in | ios::app | ios::trunc);
+
+secara diimplementasi dlm program:
+
+#include <fstream>
+#include <iostream>
+using namespace std;
+ 
+int main () {
+    string baris;
+ 
+    // membuka file dalam mode menulis.
+    ofstream outfile;
+    // menunjuk ke sebuah nama file
+    outfile.open("contohfile.txt");
+ 
+    cout << ">= Menulis file, \'q\' untuk keluar" << endl;
+ 
+    //unlimited loop untuk menulis
+    while(true){
+        cout << "- ";
+        //mendapatkan setiap karakter dalam satu baris
+        getline(cin, baris);
+        //loop akan berhenti jika anda memasukan karakter q
+        if(baris == "q") break;
+        // menulis dan memasukan nilai dari 'baris' ke dalam file
+        outfile << baris << endl;
+    }
+    //selesai dalam menulis sekarang tutup filenya
+    outfile.close();
+ 
+    //Membuka file dalam mode membaca
+    ifstream infile;
+    //menunjuk ke sebuah file
+    infile.open("contohfile.txt");
+ 
+    cout << endl << ">= Membuka dan membaca file " << endl;
+    //jika file ada maka
+    if (infile.is_open())
+    {
+        //melakukan perulangan setiap barus
+        while ( getline (infile,baris) )
+        {
+            //dan tampilkan di sini
+            cout << baris << '\n';
+        }
+        //tutup file tersebut setelah selsai
+        infile.close();
+    }
+    //jika tidak ditemukan file maka akan menampilkan ini
+    else cout << "Unable to open file";
+    return 0;
+}
+
+
+2. 
+
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main(){
+
+	ofstream myfile;
+	myfile.open("datatugas5.txt",ios::out);
+	
+	myfile << "STAY AT HOME, COVID STILL OUT THERE - Fahmi 13020190019 ";
+	
+	myfile.close();
+	
+}
+
+3.
+
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main(){
+
+string line;
+
+	ifstream myfile("datatugas5.txt"); 
+while (getline(myfile,line)){
+	cout << line << '\n';
+}
+
+myfile.close();
+	
+}
+
+4. 
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main(){
+
+	ofstream datamhs;
+
+	datamhs.open("datamhs.txt",ios::out);
+	datamhs << "stambuk = \nnama mahasiswa = \nkelas = \nipk = ";
+	
+	datamhs.close();
+
+}
+
+5.
+
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main(){
+   
+    ofstream mhsFile;
+    
+    mhsFile.open("datamhs.txt",ios::out);
+    mhsFile << "stambuk = 13020190019\nnama mahasiswa= Muhammad Fahmi\nkelas = A1";
+   
+    mhsFile.close();
+    
+}
+
+
