@@ -2,5 +2,5 @@
 
 Tipe bentukan lain, Assignment, for Mardiyyah
 
-![](Tugas5.png)
+![](Image/Tugas5.png)
 
