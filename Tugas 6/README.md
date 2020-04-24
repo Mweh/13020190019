@@ -3,4 +3,4 @@
 Pemrosesan file part 1, Assignment, for Mardiyyah
 
 
-![](Image/Tugas 6.png)
+![](Image/Tugas6.png)
