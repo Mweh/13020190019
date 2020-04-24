@@ -1,0 +1,3 @@
+stambuk = 13020190019
+nama mahasiswa= Muhammad Fahmi
+kelas = A1

@@ -1,0 +1,22 @@
+Tugas 1 Algoritma dan Pemrograman Fundamental
+
+
+1. Buatlah Flowchart untuk menjumlahkan bilangan bulat yang dimasukkan melalui keyboard, batas awal (i) bertipe integer, batas akhir(n) bertipe integer dan jumlah (sum) bertipe integer untuk menyimpan total bilangan bulat
+
+2. Buatlah Pseudocode untuk menjumlahkan bilangan bulat yang dimasukkan melalui keyboard, batas awal (i) bertipe integer, batas akhir(n) bertipe integer dan jumlah (sum) bertipe integer untuk menyimpan total bilangan bulat
+
+3. Buatlah Notasi algoritmik dari kasus penjumlahan bilangan bulat yang dimasukkan melalui keyboard, batas awal (i) bertipe integer, batas akhir(n) bertipe integer dan jumlah (sum) bertipe integer untuk menyimpan total bilangan bulat
+
+4. Buatlah Program untuk menjumlahkan bilangan bulat yang dimasukkan melalui keyboard, batas awal (i) bertipe integer, batas akhir(n) bertipe integer dan jumlah (sum) bertipe integer untuk menyimpan total bilangan bulat
+	
+	ILUSTRASI : 5
+	2 3 10 7 3
+
+5. Buat Flowchart untuk menyusun nomor dus air 2,4,6,…18 ke dalam rang kontainer yang memuat ukuran 3 x 3, setiap dus akan diberi nomor sebanyak jumlah dus dan ukuran kontainer
+
+6. Buat Pseudocode untuk menyusun nomor dus air 2,4,6,…18 ke dalam rang kontainer yang memuat ukuran 3 x 3, setiap dus akan diberi nomor sebanyak jumlah dus dan ukuran kontainer
+
+7. Buat Notasi Algoritmik untuk menyusun nomor dus air 2,4,6,…18 ke dalam rang kontainer yang memuat ukuran 3 x 3, setiap dus akan diberi nomor sebanyak jumlah dus dan ukuran kontainer
+
+8. Buat Program untuk menyusun nomor dus air 2,4,6,…18 (gunakan looping) ke dalam rang kontainer yang memuat ukuran 3 x 3, setiap dus akan diberi nomor sebanyak jumlah dus dan ukuran kontainer
+

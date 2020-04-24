@@ -1,0 +1,64 @@
+Soal Tugas Pemrosesan File
+
+
+1. Apa yang dimaksud dengan file
+	
+	File merupakan beberapa data-data yang disimpan dalam disk yang membentuk kesatuan.
+
+2. Tulis Tahap Operasi File
+
+	Pertama open atau buka File, kedua "run" atau jalankan Filenya, ketiga adalah meng"close" file.
+
+3. Sebutkan jenis operasi atau mode file
+
+	jenis2 operasinya adalah
+	-ios::in = Baca input dari file, pasangan dari ifstream
+	-ios::out = Tulis output pada file, pasangan dari ofstream
+	-ios::app = Menambah teks pada akhir file dari ofstream
+
+4. Tuliskan sintak membuka file
+		
+	sintak untuk membuka file open(“namafile”, mode);
+
+5. Buat program sederhana untuk membuka file ekstensi (*.txt) yang berisi "Saya belajar membuat file"
+	Note : Program upload di github masing-masing di dalam folder tugas 6
+
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main(){
+
+    ofstream myfile;
+    myfile.open("13020190019MuhammadFahmi.txt",ios::app);
+    myfile << "saya belajar membuat file";
+    myfile.close();
+
+return 0;
+
+}
+
+
+6. Buat program sederhana untuk membaca file ekstensi (*txt)yang telah tersimpan dan berisi "saya membuka file"
+
+
+#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+	string line;
+	ifstream myfile("13020190019MuhammadFahmi.txt"); 
+
+while (getline(myfile,line)){
+	cout << line << '\n';
+}
+
+myfile.close();
+
+return 0;
+	
+}
