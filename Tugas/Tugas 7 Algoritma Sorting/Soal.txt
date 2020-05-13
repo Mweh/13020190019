@@ -1,0 +1,17 @@
+1.Simulasikan proses pengurutan angka 1,82,4,11,29,5,20,11,8,10,3 menggunakan metode pengurutan Selection Sort secara asc dan desc
+
+2. Simulasikan proses pengurutan angka 1,82,4,11,29,5,20,11,8,10,3 menggunakan metode pengurutan Insertion Sort secara asc dan desc
+
+3. Simulasikan proses pengurutan angka 1,82,4,11,29,5,20,11,8,10,3 menggunakan metode pengurutan Bubble Sort secara asc dan desc
+
+4. Simulasikan proses pengurutan angka 1,82,4,11,29,5,20,11,8,10,3 menggunakan metode pengurutan Quick Sort secara asc dan desc
+
+5. Buat program dalam bahasa c++ yang menerapkan metode Shell Short dalam mengurutkan angka secara ascending
+
+6. Buat program dalam bahasa c++ yang menerapkan metode Merge Sort dalam mengurutkan angka secara ascending
+
+7. Buat program dalam bahasa c++ yang menerapkan metode Insertion Sort dalam mengurutkan angka secara ascending
+
+8. Buat program dalam bahasa c++ yang menerapkan metode Selection Sort dalam mengurutkan angka secara Descending
+
+9. Buat program dalam bahasa c++ yang menerapkan metode Bubble Sort dalam mengurutkan angka secara Descending
