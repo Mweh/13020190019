@@ -1,0 +1,23 @@
+1. Apa yang dimaksud dengan Preprocessor
+
+Preprocessor directives adalah perintah-perintah khusus yang ditujukan ke preprocessor. Semua preprocessor directives dimulai dengan tanda #. Karena preprocessor adalah perintah untuk preprocessornya C++ maka preprocessor directives tidak diakhiri dengan titik koma (;). Preprocessor directives ini akan mengubah program pada saat dikompile saja, jadi perubahannya hanya bersifat sementara sementara. Setelah selesai maka program akan kembali seperti semula.
+
+
+2. Sebutkan macam-macam preprocessor
+
+#include                            #if                            #ifdef
+
+#define                              #elif                         #ifndef
+
+#pragma                            #else                        #undef
+
+#error                                #endif                        #line
+
+
+5. Sebutkan macam-macam penyertaan file header
+
+A. #INCLUDE “FILE”
+Penyertaan file yang menggunakan tanda kutip ganda " ".
+
+B. #INCLUDE <FILE>
+Penyertaan file yang menggunakan tanda < >.
