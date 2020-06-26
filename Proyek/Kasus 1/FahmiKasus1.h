@@ -1,6 +1,7 @@
 // SEBELUM DIJALANKAN PASTIKAN LANG: STANDARD (-std)NYA ADALAH GNU C++ 11 DI CODE GENERATIONS - COMPILER OPTIONS
 // KASUS PERTAMA
 // Saya menggunakan 3 File, yakni 1 file header dan 2 file .cpp
+// https://github.com/Mweh/13020190019/tree/master/Proyek
 
 #ifndef FAHMIKASUS1_H 
 #define FAHMIKASUS1_H
