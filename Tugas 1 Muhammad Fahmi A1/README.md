@@ -3,4 +3,4 @@
 4th Semester Object-Oriented Programming/PBO by Mardiyyah
 
 
-![](Image/logo.png)
+![](Image/OOP%20GitHub%20Cover.png)
