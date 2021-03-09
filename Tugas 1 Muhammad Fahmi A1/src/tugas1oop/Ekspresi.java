@@ -1,5 +1,5 @@
 package tugas1oop;
-
+//13020190019 Muhammad Fahmi
 /* pemakaian operator kondisional */
 public class Ekspresi {
     /**
@@ -13,6 +13,9 @@ public class Ekspresi {
         /* ALGORITMA */
         System.out.print("x = "+ x + "\n");
         System.out.print("y = "+ y + "\n");
-        System.out.print("hasil ekspresi = (x<y)?x:y = "+ ((x < y) ? x : y)); /*Gunakan dalam kurung "(statemen dan kondisi)" untuk menyatakan satu kesatuan pernyataan*/
+        System.out.print("hasil ekspresi = (x<y)?x:y = "
+                + ((x < y) ? x : y));
+        /*Gunakan dalam kurung "(statemen dan kondisi)"
+        untuk menyatakan satu kesatuan pernyataan*/
     }
 }

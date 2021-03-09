@@ -1,5 +1,5 @@
 package tugas1oop;
-
+//13020190019 Muhammad Fahmi
 /* Operator terner */
 public class Oper4 {
     /**

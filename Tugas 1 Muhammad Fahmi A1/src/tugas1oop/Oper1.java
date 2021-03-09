@@ -1,5 +1,5 @@
 package tugas1oop;
-
+//13020190019 Muhammad Fahmi
 /* pemakaian beberapa operator terhadap bit */
 public class Oper1 {
     /**

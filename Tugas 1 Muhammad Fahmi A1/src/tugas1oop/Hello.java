@@ -1,5 +1,5 @@
 package tugas1oop;
-
+//13020190019 Muhammad Fahmi
 public class Hello {
     /**
      * @param args
@@ -12,6 +12,6 @@ public class Hello {
         System.out.print("\nHello ");
         /* menuliskan hello dan ganti baris*/
         System.out.println("World");
-        System.out.println("Welcome");
+        System.out.print("Welcome");
     }
 }

@@ -1,5 +1,5 @@
 package tugas1oop;
-
+//13020190019 Muhammad Fahmi
 /* Effek dari operator ++ */
 public class Incr {
     /**
@@ -10,7 +10,7 @@ public class Incr {
         /* Kamus */
         int i, j;
         /* Program */
-        i = 3;
+        i = 4;
         j = i++;
         System.out.println ("Nilai i : " + (++i) +
                 "\nNilai j : " + j);

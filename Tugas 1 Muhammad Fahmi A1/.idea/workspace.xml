@@ -2,39 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8164beb7-e466-46d6-a8a7-b35cad08ddd9" name="Default Changelist" comment="IntelliJv1">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/ASIGNi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Asgdll.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Asign.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/BacaData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Bacakar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Casting1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Casting2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Ekspresi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Ekspresi1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Hello.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Incr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Oper1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Oper2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Oper3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Oper4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Oprator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/ASIGNi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Asgdll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Asign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/BacaData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Bacakar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Casting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Casting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Ekspresi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Ekspresi1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Incr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Oper1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Oper2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Oper3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Oper4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/Oprator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tugas1oop/13020190019 Muhammad Fahmi FIKOM TI A1 RPL Tugas 1.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Asign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Asign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/ASIGNi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/ASIGNi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Asgdll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Asgdll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Asign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Asign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/BacaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/BacaData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Bacakar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Bacakar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Casting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Casting1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Casting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Casting2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Ekspresi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Ekspresi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Ekspresi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Ekspresi1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Incr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Incr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oprator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oprator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +45,61 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="Asgdll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tugas1oop.Asgdll" />
+  <component name="RunManager" selected="Application.Oprator">
+    <configuration name="Oper1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas1oop.Oper1" />
+      <module name="Tugas 1 Muhammad Fahmi A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugas1oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oper2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas1oop.Oper2" />
+      <module name="Tugas 1 Muhammad Fahmi A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugas1oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oper3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas1oop.Oper3" />
+      <module name="Tugas 1 Muhammad Fahmi A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugas1oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oper4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas1oop.Oper4" />
+      <module name="Tugas 1 Muhammad Fahmi A1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tugas1oop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oprator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tugas1oop.Oprator" />
       <module name="Tugas 1 Muhammad Fahmi A1" />
       <extension name="coverage">
         <pattern>
@@ -75,7 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Asgdll" />
+        <item itemvalue="Application.Oprator" />
+        <item itemvalue="Application.Oper4" />
+        <item itemvalue="Application.Oper3" />
+        <item itemvalue="Application.Oper2" />
+        <item itemvalue="Application.Oper1" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615217146663</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="IntelliJv1">
+      <created>1615217664868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615217664868</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +220,7 @@
         <entry key="2" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

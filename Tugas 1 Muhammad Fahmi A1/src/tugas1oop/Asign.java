@@ -1,5 +1,5 @@
 package tugas1oop;
-
+//13020190019 Muhammad Fahmi
 public class Asign {
     /**
      * @param args
@@ -8,6 +8,7 @@ public class Asign {
 // TODO Auto-generated method stub
         /* Kamus */
         int i;
-        /* Program */ System.out.print ("hello\n"); i = 5; System.out.println ("Ini nilai i :" + i);
+        /* Program */ System.out.print ("hello\n");
+        i = 5; System.out.println ("Ini nilai i :" + i);
     }
 }

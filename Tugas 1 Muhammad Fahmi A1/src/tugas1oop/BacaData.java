@@ -1,5 +1,5 @@
 package tugas1oop;
-
+//13020190019 Muhammad Fahmi
 import java.util.Scanner;
 /* contoh membaca integer menggunakan Class Scanner*/
 public class BacaData {
