@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8164beb7-e466-46d6-a8a7-b35cad08ddd9" name="Default Changelist" comment="IntelliJv1" />
+    <list default="true" id="8164beb7-e466-46d6-a8a7-b35cad08ddd9" name="Default Changelist" comment="IntelliJv1">
+      <change beforePath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/13020190019 Muhammad Fahmi FIKOM TI A1 RPL Tugas 1.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -152,7 +154,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615283148896</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="IntelliJv1">
+      <created>1615283217963</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615283217963</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
