@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8164beb7-e466-46d6-a8a7-b35cad08ddd9" name="Default Changelist" comment="IntelliJv1">
-      <change afterPath="$PROJECT_DIR$/src/tugas1oop/13020190019 Muhammad Fahmi FIKOM TI A1 RPL Tugas 1.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Asign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Tugas 1 Muhammad Fahmi A1/tugas1oop/Asign.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/ASIGNi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/ASIGNi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Asgdll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Asgdll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Asign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Asign.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/BacaData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/BacaData.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Bacakar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Bacakar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Casting1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Casting1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Casting2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Casting2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Ekspresi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Ekspresi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Ekspresi1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Ekspresi1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Incr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Incr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oper4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oper4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tugas1oop/Oprator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/tugas1oop/Oprator.java" afterDir="false" />
-    </list>
+    <list default="true" id="8164beb7-e466-46d6-a8a7-b35cad08ddd9" name="Default Changelist" comment="IntelliJv1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +131,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615217664868</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="IntelliJv1">
+      <created>1615281839584</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615281839584</updated>
+    </task>
+    <task id="LOCAL-00005" summary="IntelliJv1">
+      <created>1615281847943</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615281847943</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
