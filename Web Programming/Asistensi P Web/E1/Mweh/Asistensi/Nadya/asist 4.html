@@ -1,0 +1,57 @@
+<DOCTYPE html>
+  <html>
+      <head>
+          <title>Asistensi2</title>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1">
+          <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+          <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+          <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+      </head>
+      <style type= "text/css">
+      .header{
+          width: 100%;
+          height: 10px;
+          background: orange;
+      }
+      .company{
+          width: 100%;
+          height: 2px;
+          background: blue;
+      }
+      .navigasi{
+          background: orange;
+      }
+      </style>
+      <body onload="get()">
+          <font align="center"> <h1>Mau Makan Apa Hari Ini</h1> </font>
+          <div class="header"></div>
+          <div class="company"></div>
+          <th colspan="6"style=background-color:red height="30px" ></th> </table>
+          <p align="center"><input type="text" placeholder="Menu Bukber" id="input" value="" />
+          <button type="button" class="navigasi" id='add'></i> Menambahkan</button>
+          <div id="tampilan">
+          <p id="tamp"></p>
+          </div>
+          <ul id='list'>
+          </ul>
+      </body>
+      
+      <script type="text/javascript">
+      function tombol(){
+          var a = document.getElementById("isi").value;
+          document
+      }
+
+      document.getElementById("add").onclick = function() {
+  var text = document.getElementById("input").value; 
+  var li = document.createElement("li");
+  li.textContent = text;
+  document.getElementById("list").appendChild(li);
+  document.getElementById("input").value = ""; // clear the value
+}
+      </script>
+  </html>
+</DOCTYPE>

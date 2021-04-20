@@ -1,0 +1,27 @@
+<html>
+<body>
+
+<h1>Mau Makan Apa Hari Ini</h1>
+<input type='text' value='Menambahkan' id='input' />
+
+<input type='button' value='Menambahkan' id='add' />
+
+<p>Silahkan ditekan untuk menambahkan list yang diisi diatas menajadi list dibawah</p>
+
+<ul id='list'>
+  </ul>
+
+<script>
+
+
+document.getElementById("add").onclick = function() {
+  var text = document.getElementById("input").value; 
+  var li = document.createElement("li");
+  li.textContent = text;
+  document.getElementById("list").appendChild(li);
+  document.getElementById("input").value = ""; // clear the value
+}
+</script>
+
+</body>
+</html>
