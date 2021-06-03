@@ -23,7 +23,7 @@ import java.awt.Color;
 import javax.swing.UIManager;
 /**
  *
- * @author mfahm
+ * @author 13020190019 Muhammad Fahmi
  */
 public class CC extends javax.swing.JFrame {
     
