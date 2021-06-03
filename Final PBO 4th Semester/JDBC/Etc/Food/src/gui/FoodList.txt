@@ -1,0 +1,49 @@
+Beef, 71
+Bison, 48
+Chicken, 68
+Crab, 27
+Egg, 145
+Lobster, 25
+Scallop, 32
+Shrimp, 28
+Veal, 49
+Venison, 53
+Tuna, 30
+Cod, 23
+Flounder, 20
+Sea Bass, 27
+Halibut, 53
+Mahi Mahi, 31
+Ocean Perch, 27
+Orange Roughy, 22
+Snapper, 27
+Tilapia, 36
+Apple, 19
+Blueberries, 10.125
+Grapefruit, 41
+Lemon, 8
+Strawberries, 9
+Tomatoes, 5
+Raspberries, 8.125
+Cherries, 8.125
+Aragula, 7
+Asparagus, 6
+Beet Greens, 6
+Bell Peppers, 6
+Brussels Sprouts, 12
+Cabbage, 7
+Celery, 4
+Chard, 5
+Cauliflower, 7
+Cucumbers, 4
+Fennel, 9
+Kale, 14
+Lettuce, 4
+Mushroom, 8
+Onion, 12
+Radish, 5
+Spinach, 7
+Tomato, 5
+Zucchini, 6
+Brocolli, 8
+Bok Choy, 4
