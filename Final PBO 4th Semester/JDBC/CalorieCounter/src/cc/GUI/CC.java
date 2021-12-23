@@ -29,7 +29,7 @@ public class CC extends javax.swing.JFrame {
     
     List record = new ArrayList(); 
     userInterface userService; 
-    int row;
+    private int row;
     String ccName;
     
     /**
